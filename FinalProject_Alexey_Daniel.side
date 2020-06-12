@@ -45,6 +45,13 @@
       ],
       "value": "Daniel"
     }, {
+      "id": "bb9397ce-578b-4567-9fb5-66da9ad947ff",
+      "comment": "",
+      "command": "verifyValue",
+      "target": "name=first_name",
+      "targets": [],
+      "value": "Daniel"
+    }, {
       "id": "097c1028-d92a-4240-a62e-1728857c6222",
       "comment": "",
       "command": "type",
@@ -55,6 +62,13 @@
         ["xpath=//input[@name='last_name']", "xpath:attributes"],
         ["xpath=//tr[2]/td[2]/input", "xpath:position"]
       ],
+      "value": "Bel"
+    }, {
+      "id": "15327840-9339-4081-98af-c22ecad9614e",
+      "comment": "",
+      "command": "verifyValue",
+      "target": "name=last_name",
+      "targets": [],
       "value": "Bel"
     }, {
       "id": "c56ed218-f962-4d59-b1e1-e8e9820201e4",
